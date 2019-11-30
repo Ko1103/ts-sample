@@ -1,0 +1,24 @@
+{
+  "name": "ts-sample",
+  "version": "1.0.0",
+  "description": "this is sample how typescript works",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ko1103/ts-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ko1103/ts-sample/issues"
+  },
+  "homepage": "https://github.com/Ko1103/ts-sample#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
